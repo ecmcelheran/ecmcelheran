@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ecmcelheran
 - 👀 I’m interested in software engineering and programming
-- 🌱 I’m currently learning more about software development, algorithms and data structures
-- 📫 How to reach me: ecmcelheran15@gmail.com
+- 🌱 I’m currently learning more about software architectures and safety-critical systems
