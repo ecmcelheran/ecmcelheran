@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ecmcelheran
-- 👀 I’m interested in software engineering and programming
-- 🌱 I’m currently learning more about software architectures and safety-critical systems
+- I’m interested in software engineering and programming
+- I’m currently learning more about cloud architectures and safety-critical systems
